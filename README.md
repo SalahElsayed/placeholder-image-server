@@ -21,7 +21,7 @@ This is a simple Django project that serves placeholder images of custom sizes. 
 6. The generated placeholder image will be displayed in your web browser.
 
 ## Dependencies
--Python 3.11.4+
+- Python 3.11.4+
 - Django 4.2.4+
 - gunicorn 21.2.0+
 - Pillow 10.0.0+ (Python Imaging Library)
